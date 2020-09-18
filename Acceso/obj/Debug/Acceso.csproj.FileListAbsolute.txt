@@ -1,0 +1,36 @@
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\bin\Debug\Acceso.dll
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\bin\Debug\Acceso.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\obj\Debug\Acceso.dll
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\obj\Debug\Acceso.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\bin\Debug\CapaTransversal.dll
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\bin\Debug\CapaTransversal.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\obj\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Acceso\obj\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Acceso\obj\Debug\Acceso.pdb

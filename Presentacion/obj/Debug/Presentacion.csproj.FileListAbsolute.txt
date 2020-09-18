@@ -1,0 +1,104 @@
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\Acceso.dll
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\Acceso.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\CapaTransversal.dll
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\CapaTransversal.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.Trabajos.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.Proveedores.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\Presentacion.usuarioEdit.resources
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe.config
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.exe
+C:\Users\Dantes\source\repos\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe.config
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.Trabajos.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.Proveedores.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.usuarioEdit.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe.config
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Trabajos.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Proveedores.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.usuarioEdit.resources
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.exe
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe.config
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\LoginAppLocalDB.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Trabajos.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Proveedores.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.usuarioEdit.resources
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.exe
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Presentacion\obj\Debug\LoginAppLocalDB.pdb

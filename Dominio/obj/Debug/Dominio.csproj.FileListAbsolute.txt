@@ -1,0 +1,44 @@
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\bin\Debug\Dominio.dll
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\bin\Debug\Acceso.dll
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\bin\Debug\Acceso.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\obj\Debug\Dominio.dll
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\bin\Debug\CapaTransversal.dll
+C:\Users\Dantes\source\repos\Login3Cap\Dominio\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\bin\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\bin\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\obj\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos\Login3Cap\Dominio\obj\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\github\c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Dominio.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Acceso.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\CapaTransversal.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\Acceso.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\bin\Debug\CapaTransversal.pdb
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.dll
+C:\Users\DantesMx\Desktop\Proyects\IM - c-sharp\1.Proyectos_RCodeAdvance\Login3Cap\Dominio\obj\Debug\Dominio.pdb
